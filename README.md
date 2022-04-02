@@ -5,7 +5,8 @@
 </div>
 <br>
 <div align="center">
-  <h2>🍀Tech Stack🍀</h2>
+  <font size="4em">🍀Tech Stack🍀</font>
+
 <br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Phthon-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
 
@@ -13,26 +14,27 @@
 </div>
 
 <div align="center">
-    <h2>🌳Cowork Tools🌳<h2>
+    <font size="4em">🍀Cowork Tools🍀</font>
+
 <br>
+
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
 </div>
 
 
 <div align="center">
-<h2>🔔Connect with me🔔</h2>
+<font size="4em">🔔Connect with me🔔</font>
+
 <br>
-<a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Blog-F5C400?style=flat-square&logo=blogger&logoColor=white&link=https://graph-paper.tistory.com"></a>
 
-<a href="https://graph-paper.tistory.com"><img src="https://img.shields.io/badge/Blog-F5C400?style=flat-square&logo=Blogger&logoColor=white"/></a>
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://graph-paper.tistory.com"><img src="https://img.shields.io/badge/Blog-F5C400?style=flat-square&logo=Blogger&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </div>
 
 ---
 
 <div align="center">
-<h2>🍑 GitHub stats🍑</h2>
+<font size="4em">🍑 GitHub stats🍑</font>
+
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EUNJEONGMUN&show_icons=true&theme=gruvbox)
