@@ -16,7 +16,7 @@
 
 <div align="center">
     <h3>🍀Cowork Tools🍀</h3>
-    
+
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
 </div>
 
@@ -25,8 +25,7 @@
 
 <h3>🔔Connect with me🔔</h3>
 
-<a href="https://graph-paper.tistory.com"><img src="https://img.shields.io/badge/Blog-F5C400?style=flat-square&logo=Blogger&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-</div>
+<a href="https://graph-paper.tistory.com"><img src="https://img.shields.io/badge/Blog-F5C400?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
 
 <div align="center">
