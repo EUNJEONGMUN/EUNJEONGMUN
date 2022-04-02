@@ -5,16 +5,18 @@
 </div>
 <br>
 <div align="center">
-  <font size="4em">🍀Tech Stack🍀</font>
+
+  <font size="6em">🍀Tech Stack🍀</font>
 
 <br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Phthon-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
+
 </div>
 
 <div align="center">
-    <font size="4em">🍀Cowork Tools🍀</font>
+    <font size="6em">🍀Cowork Tools🍀</font>
 
 <br>
 
@@ -23,17 +25,18 @@
 
 
 <div align="center">
-<font size="4em">🔔Connect with me🔔</font>
+
+<font size="6em">🔔Connect with me🔔</font>
 
 <br>
 
 <a href="https://graph-paper.tistory.com"><img src="https://img.shields.io/badge/Blog-F5C400?style=flat-square&logo=Blogger&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </div>
 
----
 
 <div align="center">
-<font size="4em">🍑 GitHub stats🍑</font>
+
+<font size="6em">🍑 GitHub stats🍑</font>
 
 <br>
 
