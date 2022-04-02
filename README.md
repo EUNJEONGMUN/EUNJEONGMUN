@@ -6,7 +6,7 @@
 <br>
 <div align="center">
 
-  <font size="6em">🍀Tech Stack🍀</font>
+  <h3>🍀Tech Stack🍀</h3>
 
 <br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Phthon-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-    <font size="6em">🍀Cowork Tools🍀</font>
+    <h3>🍀Cowork Tools🍀</h3>
 
 <br>
 
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<font size="6em">🔔Connect with me🔔</font>
+<h3>🔔Connect with me🔔</h3>
 
 <br>
 
@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<font size="6em">🍑 GitHub stats🍑</font>
+<h3>🍑 GitHub stats🍑</h3>
 
 <br>
 
